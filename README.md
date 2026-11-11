@@ -1,2 +1,2 @@
 # dois-web-sitesi
-Zincir bir restoranın bir şubesi için web sitesi. 
+Zincir bir restoranın bir şubesinin tanıtımı için web sitesi. 
